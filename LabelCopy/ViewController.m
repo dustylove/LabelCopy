@@ -25,6 +25,8 @@
     UITextField * textField = [[UITextField alloc]initWithFrame:CGRectMake(60, 200, 200, 30)];
     [textField setBorderStyle:UITextBorderStyleRoundedRect];
     [self.view addSubview:textField];
+    
+    //ammm
 }
 
 
