@@ -26,10 +26,6 @@
     [textField setBorderStyle:UITextBorderStyleRoundedRect];
     [self.view addSubview:textField];
     
-    //ammmn
-    //111
-    //222
-    //333444
 }
 
 
